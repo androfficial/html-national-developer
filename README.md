@@ -2,7 +2,7 @@
 
 Landing page for Development, a residential developer in Kyiv, with GSAP animations on load and on scroll. The site is in Ukrainian. Built in July 2021 as a learning project.
 
-**Live demo:** [androfficial.github.io/national-developer](https://androfficial.github.io/national-developer/)
+**Live demo:** [androfficial.github.io/html-national-developer](https://androfficial.github.io/html-national-developer/)
 
 ## Features
 
@@ -25,8 +25,8 @@ Landing page for Development, a residential developer in Kyiv, with GSAP animati
 The repository holds the compiled site, with no dependencies and no build step. The icons and logos come from an external SVG sprite that browsers do not load from `file://`, so serve the folder over HTTP, for example with `npx serve .` on Node.js 18 or later.
 
 ```bash
-git clone https://github.com/androfficial/national-developer.git
-cd national-developer
+git clone https://github.com/androfficial/html-national-developer.git
+cd html-national-developer
 npx serve .
 ```
 
